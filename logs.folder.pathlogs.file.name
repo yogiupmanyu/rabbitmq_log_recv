@@ -1,0 +1,7 @@
+{
+				"time": "2020-09-14 17:02:37,357",
+				"thread": "pool-4-thread-2",
+				"level": "DEBUG",
+				"class": "o.s.amqp.rabbit.core.RabbitTemplate",
+				"message": "Publishing message [(Body:'[B@26a392c9(byte[615])' MessageProperties [headers={level=DEBUG, thread=pool-4-thread-1, categoryName=org.springframework.amqp.rabbit.core.RabbitTemplate}, timestamp=Mon Sep 14 17:02:27 IST 2020, messageId=985a7f85-f059-40fc-ba1d-d92147567587, appId=AmqpAppenderTest, contentType=JSON, contentLength=0, deliveryMode=NON_PERSISTENT, priority=0, deliveryTag=0])] on exchange [log-exchange], routingKey = [logs-test-key]"
+				}
