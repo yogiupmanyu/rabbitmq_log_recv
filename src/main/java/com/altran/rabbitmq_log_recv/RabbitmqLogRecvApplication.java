@@ -6,6 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class RabbitmqLogRecvApplication {
 
+	// commit in test_branch
 	public static void main(String[] args) {
 		SpringApplication.run(RabbitmqLogRecvApplication.class, args);
 	}
